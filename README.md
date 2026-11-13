@@ -1,1 +1,1 @@
-# ITECHNOCUP-CTF-2026
+# hi! its me yes me again, this time i won the finalist award in this ctf competition, use this as wisely as possible, and i solved around 10 or 12 challenges total, special thanks and mention to my teammates :))
